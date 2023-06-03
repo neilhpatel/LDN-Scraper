@@ -41,4 +41,4 @@ def parseLink(link):
     f.close()
 
 if __name__ == "__main__":
-    parseLink("https://www.lagrangenews.com/2023/06/01/troup-county-sheriffs-office-incident-reports-for-period-ending-june-2/")
+    parseLink("https://www.lagrangenews.com/2023/06/02/troup-high-school-announces-new-principal/")
